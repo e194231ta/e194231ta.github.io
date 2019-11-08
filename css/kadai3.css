@@ -1,0 +1,26 @@
+body{
+    background-image:url("../images/back2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
+
+h4{
+    color: blue;
+}
+a{
+    color: blue;
+}
