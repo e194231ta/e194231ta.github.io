@@ -1,0 +1,30 @@
+
+body{
+    background-image: url("../images/back3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    background-color: aqua;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+table{
+    background-color: aqua;
+}
+
+ol{
+    background-image: url("../images/back3.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
