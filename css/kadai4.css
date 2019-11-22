@@ -1,0 +1,31 @@
+body{
+    background-image:url("../images/back2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1.Title1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h3.SubTitle1{
+    text-align: center;
+    background-color: purple;
+    color: red;
+}
+
+h3.SubTitle2{
+    text-align: center;
+    background-color: lightblue;
+    color: yellow;
+}
+
+h1.Title2{
+    text-align: center;
+    background-color: green;
+    color: pink;
+}
